@@ -38,7 +38,7 @@ To use this repository, you'll need to install Miniforge or Miniconda and set up
 3. Run the following command to create a new conda environment named `coreg` using the provided YAML file:
 
     ```bash
-    conda env create -f environment.yml -n coreg
+    conda env create -f coregenvironment.yml -n coreg
     ```
 
 4. Activate the environment:
