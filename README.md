@@ -49,7 +49,6 @@ To use this repository, you'll need to install Miniforge or Miniconda and set up
 
 This will install all the required dependencies for CycFluoCoreg into the `coreg` environment.
 
----
 
 ### Step 3: Usage in Jupyter Notebook
 
@@ -59,3 +58,5 @@ After activating the environment, you can open jupyter notebook in your browser 
 jupyter notebook
 
 Now navigate to the Coregistration_AffineBSpline.ipynb and run each step with Cntrl + Enter
+
+---
